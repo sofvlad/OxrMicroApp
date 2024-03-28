@@ -1,0 +1,6 @@
+.env
+composer.lock
+/runtime
+/vendor
+/docker/nginx/logs
+/docker/mysql
